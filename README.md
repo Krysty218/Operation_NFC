@@ -1,2 +1,3 @@
-# Operation-Neo-Meal
+# Operation-NFC
+A meal recommendation system 
  
